@@ -1,0 +1,61 @@
+{
+  "intents": [
+    {
+      "intent": "quickStartIntent"
+    },
+    {
+      "intent": "startIntent"
+    },
+    {
+      "intent": "replaceOneWordIntent"
+    },
+    {
+      "intent": "replaceTwoWordsIntent"
+    },
+    {
+      "intent": "helpIntent"
+    },
+    {
+      "intent": "listBooksIntent"
+    },
+    {
+      "intent": "getAnimalFarmIntent"
+    },
+    {
+      "intent": "getTheBookThiefIntent"
+    },
+    {
+      "intent": "getGameOfThronesIntent"
+    },
+    {
+      "intent": "getTestIntent"
+    },
+    {
+      "intent": "getSettingsIntent"
+    },
+    {
+      "intent": "getSentenceIntent"
+    },
+    {
+      "intent": "advanceSentenceIntent"
+    },
+    {
+      "intent": "lastSentenceIntent"
+    },
+    {
+      "intent": "quitIntent"
+    },
+    {
+      "intent": "slowSpeedIntent"
+    },
+    {
+      "intent": "normalSpeedIntent"
+    },
+    {
+      "intent": "startAgainIntent"
+    },
+    {
+      "intent": "unknownIntent"
+    }
+  ]
+}

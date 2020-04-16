@@ -1,0 +1,94 @@
+quickStartIntent quick start
+quickStartIntent just start it
+quickStartIntent quick read
+quickStartIntent i do not care
+startIntent begin
+startIntent main menu
+startIntent menu
+replaceOneWordIntent one word
+replaceOneWordIntent replace one word
+replaceOneWordIntent one
+replaceTwoWordsIntent two words
+replaceTwoWordsIntent replace two words
+replaceTwoWordsIntent two
+helpIntent give me options
+helpIntent help
+helpIntent help me
+helpIntent information
+helpIntent info
+helpIntent what can i say
+listBooksIntent list
+listBooksIntent list books
+listBooksIntent what books
+listBooksIntent what do you have
+listBooksIntent what books are there
+listBooksIntent books
+listBooksIntent let me see the list of books
+getAnimalFarmIntent the animal farm
+getAnimalFarmIntent animal farm
+getAnimalFarmIntent get animal farm
+getAnimalFarmIntent read animal farm
+getTheBookThiefIntent book thief
+getTheBookThiefIntent the book thief
+getTheBookThiefIntent get book thief
+getTheBookThiefIntent read book thief
+getGameOfThronesIntent throne games
+getGameOfThronesIntent game of thrones
+getGameOfThronesIntent get game of thrones
+getGameOfThronesIntent read game of thrones
+getTestIntent read test
+getSettingsIntent settings
+getSettingsIntent get settings
+getSettingsIntent what are the settings
+getSettingsIntent give me the settings
+getSettingsIntent tell me the settings
+getSentenceIntent start
+getSentenceIntent what are the Sentences
+getSentenceIntent give me the Sentences
+getSentenceIntent Sentences
+advanceSentenceIntent next
+advanceSentenceIntent what's the next
+advanceSentenceIntent get the next
+advanceSentenceIntent i'm ready for the next
+advanceSentenceIntent ok what else
+advanceSentenceIntent next Sentence
+advanceSentenceIntent get next Sentence
+advanceSentenceIntent ok what next
+advanceSentenceIntent what is the next step
+advanceSentenceIntent next step
+lastSentenceIntent last
+lastSentenceIntent what was the last
+lastSentenceIntent previous
+lastSentenceIntent get former
+lastSentenceIntent repeat former
+lastSentenceIntent what was that last Sentence
+lastSentenceIntent previous Sentence
+lastSentenceIntent former Sentence
+lastSentenceIntent get last Sentence
+lastSentenceIntent repeat last Sentence
+lastSentenceIntent last step
+quitIntent stop
+quitIntent exit
+quitIntent quit
+quitIntent abort
+quitIntent no no no
+quitIntent this is too hard
+slowSpeedIntent set speed to slow
+slowSpeedIntent slow speed
+slowSpeedIntent slow
+normalSpeedIntent set speed to normal
+normalSpeedIntent normal speed
+normalSpeedIntent regular speed
+startAgainIntent start again
+startAgainIntent repeat over
+unknownIntent aakdfjkaflkad
+unknownIntent nonsense
+unknownIntent blah blah
+unknownIntent rarar eeee
+unknownIntent wefeeeeeeeee
+unknownIntent lelelee
+unknownIntent what is happening
+unknownIntent jssssss
+unknownIntent mon day tues day
+unknownIntent jeeeirslslal
+unknownIntent this is unkknown
